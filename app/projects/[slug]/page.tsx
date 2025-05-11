@@ -6,7 +6,6 @@ import { Button } from '@/components/ui/button';
 import { projects } from '@/lib/data';
 import { ExternalLink, Github, ArrowLeft } from 'lucide-react';
 import { Metadata } from 'next';
-import Markdown from 'react-markdown';
 
 type Props = {
   params: {
